@@ -1,0 +1,2 @@
+# hiddenSearchWidget
+Hidden Search Widget
